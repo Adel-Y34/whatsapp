@@ -1,0 +1,23 @@
+body{
+    min-height: 100vh;
+    background:linear-gradient(#009788 0%, #009788 130px,#D9DCD5 130px,#D9DCD5 100%)
+}
+
+.icone-personnalisée {
+    width: 40px;
+    height: 40px;
+}
+
+.color1 {
+    background-color: rgb(231, 222, 222);
+}
+
+.icone-personnalisée2 {
+    width: 70px;
+    height: 70px;
+}
+
+.color2 {
+    background-color: #ccdfdd;
+}
+
